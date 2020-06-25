@@ -1,3 +1,3 @@
 # QuadTree
 
-![QuadTree](https://user-images.githubusercontent.com/43095260/85777615-7359dd00-b72a-11ea-95cd-e46a6fbf8668.png)
+![Quad](https://user-images.githubusercontent.com/43095260/85777869-adc37a00-b72a-11ea-9a4f-5bdcf6c3e6e3.PNG)
