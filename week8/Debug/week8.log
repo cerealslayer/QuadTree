@@ -1,0 +1,5 @@
+﻿  Scene.cpp
+C:\Users\thedv\Documents\upei-cs435-new\Assignment2Cs\week8\week8\Scene.cpp(36,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\thedv\Documents\upei-cs435-new\Assignment2Cs\week8\week8\Scene.cpp(37,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\thedv\Documents\upei-cs435-new\Assignment2Cs\week8\week8\Scene.cpp(38,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  week8.vcxproj -> C:\Users\thedv\Documents\upei-cs435-new\Assignment2Cs\week8\Debug\week8.exe
